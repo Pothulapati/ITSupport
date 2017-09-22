@@ -22,6 +22,12 @@ namespace ItSupportWebApp.Controllers
             return View();
         }
 
+        public IActionResult AddTicket(TicketModel model)
+        {
+            //Add Logic to add the ticket
+            return View(model);
+        }
+
         public IActionResult Tickets()
         {
             ViewData["Message"] = "Tickets";

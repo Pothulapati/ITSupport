@@ -1,13 +1,29 @@
-﻿@{
+﻿@model TicketModel
+@{
     ViewData["Title"] = "Ticket Counter";
 }
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewData["Message"]</h3>
 
 <p>Add a Ticket</p>
-@Html.BeginForm()
+@using (Html.BeginForm("AddTicket","Home",FormMethod.Post))
 {
-}
-<form action="Home/AddData" method="post">
+    <div class=" body-content">
+   <div class="row">
+       @Html.TextBoxFor(m => m.Client)
+   </div>
+<div class="row">
+    @Html.TextBoxFor(m => m.Client)
+   
+</div>
+<div class="row">
+    @Html.TextBoxFor(m => m.Client)
+</div>
+<div class="row">
+    @Html.TextBoxFor(m => m.Client)
+</div>
+        </div>
 
-</form>
+
+
+}
