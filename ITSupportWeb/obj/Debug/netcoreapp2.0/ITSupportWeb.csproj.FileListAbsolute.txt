@@ -1,0 +1,12 @@
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\bin\Debug\netcoreapp2.0\ITSupportWeb.deps.json
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\bin\Debug\netcoreapp2.0\ITSupportWeb.runtimeconfig.json
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\bin\Debug\netcoreapp2.0\ITSupportWeb.runtimeconfig.dev.json
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\bin\Debug\netcoreapp2.0\ITSupportWeb.dll
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\bin\Debug\netcoreapp2.0\ITSupportWeb.pdb
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.csprojResolveAssemblyReference.cache
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.csproj.CoreCompileInputs.cache
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.AssemblyInfoInputs.cache
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.AssemblyInfo.cs
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.dll
+c:\users\tarun pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\ITSupportWeb.pdb
+C:\Users\Tarun Pothulapati\source\repos\ITSupportBot\ITSupportWeb\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
